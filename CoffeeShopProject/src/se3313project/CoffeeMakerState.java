@@ -1,0 +1,15 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package se3313project;
+
+/**
+ *
+ * @author psk
+ */
+public interface CoffeeMakerState {
+    void start();
+    void fillCups(int cups);
+    void reset(); 
+}

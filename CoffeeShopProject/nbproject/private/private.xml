@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/TimerManager.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/CoffeeMakerApp.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/BrewingState.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/CoffeeMakerObserver.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/ViewInterface.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/CoffeeMakerState.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/CoffeeMakerController.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/CoffeeMakerModel.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/BrewingTask.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/EmptyState.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/IdleState.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/CoffeeMakerDatabase.java</file>
+            <file>file:/C:/Users/psk/Documents/NetBeansProjects/se3313Project/src/se3313project/DoneState.java</file>
+        </group>
+    </open-files>
+</project-private>
